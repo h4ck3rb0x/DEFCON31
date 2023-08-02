@@ -69,7 +69,7 @@ The RF-Nano can be programmed via the Arduino IDE: Select the Tools > Board as A
 ### Dual Frequency RFID Reader/Writer
 See the [Tagger HackerBox Guide](https://www.instructables.com/HackerBox-0072-Tagger/).
 
-See also [PCB Assembly Notes](dualfrequency.pdf) for the 7941W Dual Frequency RFID.
+See also [PCB Assembly Notes](dualfrequencyrfid.pdf) for the 7941W Dual Frequency RFID.
 
 The two RFID cards marked with "CUID" are 13.56MHz and the two with no marking are 125KHz.
 
