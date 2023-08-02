@@ -39,8 +39,48 @@ Octopus SAO: Follow video for Atomic SAO minus vinyl decal.
 Follow [video for Cyber Power Badge](https://youtu.be/pNXoxo7XWYw) minus LEDs.
 
 Note orientation of SAO Sockets (keying block up) and the suggestion to loosen the SAO sockets if they are too snug.
+# :sunny: :sunny: Hardware Hacking Toolkit :sunny: :sunny:
+### Soldering Tools
+See the [HackerBox Soldering Workshop Guide](https://www.instructables.com/HackerBox-Soldering-Workshop/)
+### Digital Multimeter
+See the [HackerBox Starter Workshop Guide](https://www.instructables.com/HackerBoxes-Starter-Workshop/)
+### Sixty Second Countdown Timer Soldering Kit
+See the [HackerBox Soldering Workshop Guide](https://www.instructables.com/HackerBox-Soldering-Workshop/)
+### Surface Mount Technology Soldering Kit
+See the [HackerBox Soldering Workshop Guide](https://www.instructables.com/HackerBox-Soldering-Workshop/)
+### Electrons to A.I.
+See the [HackerBox Basics Workshop Guide](https://www.instructables.com/HackerBox-Basics-Workshop/)
+# :sunny: :sunny: Wireless Hacking Toolkit :sunny: :sunny:
+### Dual Band Wi-Fi Scanner
+See the [LAN Lord HackerBox Guide](https://www.instructables.com/HackerBox-0073-LAN-Lord/)
+### War Driver
+See the [Wispy HackerBox Guide](https://www.instructables.com/HackerBox-0089-WiSpy/)
+### Five-Band MSI2500 SDR 10KHz-1GHz Receiver
+Includes Telescoping SMA Antenna
 
-# Pen Test Toolkit
+[Demo Video](https://youtu.be/VwxePFxiCQc)
+
+[SDRuno Software](https://www.sdrplay.com/sdruno/)
+
+[Hardware Design](https://github.com/EndlessEden/msiSDR/tree/RSP1-S)
+### PCB Yagi Antenna
+See the [Wispy HackerBox Guide](https://www.instructables.com/HackerBox-0089-WiSpy/)
+# :sunny: :sunny: Badgelife Toolkit :sunny: :sunny:
+### Fibonacci Spiral Badge
+See the [Fibonacci HackerBox Guide](https://www.instructables.com/HackerBox-0091-Fibonacci/)
+### IoT Wi-Fi Hacking Badge
+See the [Badgelife HackerBox Guide](https://www.instructables.com/HackerBox-0093-Badgelife/)
+### Cyber Power Disc Badge
+[Assembly Video](https://youtu.be/pNXoxo7XWYw)
+### 7 SAOs
+Atomic, Space Sloth, and Octopus SAOs: [Assembly Video](https://youtu.be/AWy_B6K0opY)
+
+Artemis, BitHead, Guy Fawkes, and Shroom SAOs: [Assembly Video](https://youtu.be/MpOPoPlyInA)
+### Six SAO Display Showcase
+See the [SAO Showcase HackerBox Guide](https://www.instructables.com/HackerBox-0068-SAO-Showcase/)
+### USB Power Supply for SAO Showcase
+Solder the four-pin right-angle header to the 3V3 and GND pins of the Showcase PCB.  Use two female-to-female jumper wires to connect one of the GND pins and one of the 3V3 pins to the corresponding pins on the USB power module.
+# :sunny: :sunny: Pen Test Toolkit :sunny: :sunny:
 [Penetration Testing](https://en.wikipedia.org/wiki/Penetration_test) or ethical hacking is an authorized simulated cyberattack on a computer system and possibly physical security systems associated therewith.  The pen test is performed to evaluate the security of the system.  The test can identify vulnerabilities, including the potential for unauthorized parties to gain access to the system's features and data, as well as strengths, enabling a full risk assessment to be completed. 
 ### RP2040 Inline USB Trap
 See the [Inline HackerBox Guide](https://www.instructables.com/HackerBox-0092-Inline/)
